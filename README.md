@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://propui.dev"><img src=".github/assets/banner-hero.png" alt="Prop UI: whole screens and agentic UI for React" width="100%"></a>
+  <a href="https://propui.dev"><img src=".github/assets/banner-ampwell.png" alt="Prop UI: whole screens and agentic UI for React" width="100%"></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
     <td width="50%"><a href="https://propui.dev/p/fernhall-print-farm"><img src=".github/assets/fernhall-print-farm.jpg" alt="Fernhall print farm floor"></a><br><b>Fernhall</b> · Print farm floor dashboard<br><sub>In this repo</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://propui.dev/p/ampwell-hero"><img src=".github/assets/ampwell-hero.jpg" alt="Ampwell home battery hero"></a><br><b>Ampwell</b> · Home battery hero<br><sub>On propui.dev</sub></td>
+    <td width="50%"><a href="https://propui.dev/p/ampwell-hero"><img src=".github/assets/ampwell.jpg" alt="Ampwell home battery hero"></a><br><b>Ampwell</b> · Home battery hero<br><sub>On propui.dev</sub></td>
     <td width="50%"><a href="https://propui.dev/p/tallyo-close"><img src=".github/assets/tallyo-close.jpg" alt="Tallyo month-end close"></a><br><b>Tallyo</b> · Month-end close dashboard<br><sub>On propui.dev</sub></td>
   </tr>
   <tr>
