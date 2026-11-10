@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://propui.dev"><img src=".github/assets/banner.png" alt="Prop UI: whole screens and agentic UI for React" width="100%"></a>
+  <a href="https://propui.dev"><img src=".github/assets/banner-hero.png" alt="Prop UI: whole screens and agentic UI for React" width="100%"></a>
 </p>
 
 <p align="center">
