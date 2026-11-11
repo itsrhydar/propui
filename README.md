@@ -31,11 +31,15 @@
     <td width="50%"><a href="https://propui.dev/p/fernhall-print-farm"><img src=".github/assets/fernhall-print-farm.jpg" alt="Fernhall print farm floor"></a><br><b>Fernhall</b> · Print farm floor dashboard<br><sub>In this repo</sub></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://propui.dev/p/tessel-hero"><img src=".github/assets/tessel-hero.jpg" alt="Tessel catalogue studio hero"></a><br><b>Tessel</b> · Catalogue studio hero<br><sub>In this repo</sub></td>
     <td width="50%"><a href="https://propui.dev/p/ampwell-hero"><img src=".github/assets/ampwell.jpg" alt="Ampwell home battery hero"></a><br><b>Ampwell</b> · Home battery hero<br><sub>On propui.dev</sub></td>
-    <td width="50%"><a href="https://propui.dev/p/tallyo-close"><img src=".github/assets/tallyo-close.jpg" alt="Tallyo month-end close"></a><br><b>Tallyo</b> · Month-end close dashboard<br><sub>On propui.dev</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://propui.dev/p/stackwise-portfolio"><img src=".github/assets/stackwise-portfolio.jpg" alt="Stackwise SaaS portfolio"></a><br><b>Stackwise</b> · SaaS portfolio dashboard<br><sub>On propui.dev</sub></td>
+    <td width="50%"><a href="https://propui.dev/p/holdfast-hero"><img src=".github/assets/holdfast-hero.jpg" alt="Holdfast carbon removal hero"></a><br><b>Holdfast</b> · Carbon removal hero<br><sub>On propui.dev</sub></td>
+    <td width="50%"><a href="https://propui.dev/p/stook-hero"><img src=".github/assets/stook-hero.jpg" alt="Stook grain storage hero"></a><br><b>Stook</b> · Grain storage hero<br><sub>On propui.dev</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://propui.dev/p/ceiling-hero"><img src=".github/assets/ceiling-hero.jpg" alt="Ceiling airline dispatch hero"></a><br><b>Ceiling</b> · Airline dispatch hero<br><sub>On propui.dev</sub></td>
     <td width="50%" align="center"><br><b>More every week</b><br><sub>Agentic UI is next: chat, tool calls and agent dashboards.<br>Then websites, mobile UIs and templates.<br><a href="https://propui.dev">Get notified when a piece ships →</a></sub></td>
   </tr>
 </table>
